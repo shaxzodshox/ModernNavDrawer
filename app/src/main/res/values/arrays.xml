@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenTitles">
+        <item>Asosiy sahifa</item>
+        <item>Mening profilim</item>
+        <item>Biz haqimizda</item>
+        <item>Dasturlarimiz</item>
+        <item>Ulashish</item>
+        <item/>
+        <item>Chiqish</item>
+    </string-array>
+
+    <string-array name="screenIcons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_account</item>
+        <item>@drawable/ic_info</item>
+        <item>@drawable/ic_apps</item>
+        <item>@drawable/ic_share</item>
+        <item>0</item>
+        <item>@drawable/ic_exit</item>
+
+
+    </string-array>
+
+</resources>
