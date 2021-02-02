@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.navdrawerlayout"
+        applicationId "com.shlsoft.navdrawerlayout"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

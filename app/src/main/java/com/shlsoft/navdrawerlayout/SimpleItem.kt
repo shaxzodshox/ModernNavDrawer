@@ -1,4 +1,4 @@
-package com.example.navdrawerlayout
+package com.shlsoft.navdrawerlayout
 
 import android.graphics.drawable.Drawable
 import android.view.LayoutInflater
